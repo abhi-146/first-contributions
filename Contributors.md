@@ -8,6 +8,7 @@
 - Hafed omar 
 Adam Blaylock
 - [Sai Priya](https://github.com/Saipriyavadisina)
+-[Abhinav Jain](https://github.com/abhi-146)
 - Daniel Danaee
 - [meet0806](https://github.com/meet0806)
 - [Hannah Campbell](https://github.com/hannahckc)

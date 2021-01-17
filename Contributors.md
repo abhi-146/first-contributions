@@ -117,7 +117,7 @@ Adam Blaylock
 - [Ryan Deng](https://github.com/ryandeng32)
 - [Magicianred](https://github.com/Magicianred)
 - [Karolis Riaubūnas](https://github.com/Karka-Admin)
-- [Sawan Khanchi](https://github.com/sawankhanchi)
+- [Sawan Khanchi](https://github.com/sawankhanchi) 
 - [Shrimad Bhagwat](https://github.com/Shrimad-Bhagwat)
 - [Pablo Sosa Sisini](https://github.com/pasosa-s)
 - [Francesco Cappetti](https://github.com/KappaOnGit)
